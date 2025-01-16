@@ -1,0 +1,2 @@
+# pythagorian_triples
+Упражнение
